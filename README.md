@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhonagiri Bhargavi</h1>
-<h3 align="center">I am a motivated Computer Science undergraduate pursuing a B.Tech in Computer Science and Information Technology at Malla Reddy Engineering College for Women. I have hands-on experience working on diverse projects including a Django-based e-commerce bookstore, handwritten digit recognition, and medical diagnosis using explainable AI. I’m passionate about applying technology to solve real-world problems and continuously learning to grow as a software developer, full-stack developer, or data analyst. 🔭 Featured Projects Django E-commerce Bookstore Handwritten Digits Recognition Medical Diagnosis using Explainable AI 💼 Other Projects Supply Chain Analytics Mental Health Support Chatbot EdTech Adaptive Learning Platform Waste Detection System</h3>
+<h3 align="center">I am a proactive and detail-oriented Computer Science undergraduate pursuing a B.Tech in Computer Science and Information Technology at Malla Reddy Engineering College for Women. With a strong foundation in programming and data analysis, I am passionate about developing innovative solutions to solve real-world problems. I am committed to continuous learning and eager to contribute effectively in dynamic and challenging work environments.</h3>
 
 - 🌱 I’m currently learning **react, node js**
 
